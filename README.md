@@ -8,5 +8,9 @@ Mozilla Firefox addons: Mid Vid:
   * https://github.com/meandavejustice/min-vid/issues/1083
   
   
-Apache OpenOffice  
+Apache OpenOffice 
+It's open source project where I'm QA volunteer 
   * https://bz.apache.org/ooo/show_bug.cgi?id=127587
+  
+  
+Utest - Network for Testers

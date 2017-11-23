@@ -11,7 +11,8 @@ Mozilla Firefox addons: Mid Vid:
 Apache OpenOffice 
 It's open source project where I'm QA volunteer 
   * https://bz.apache.org/ooo/show_bug.cgi?id=127587
+  * https://bz.apache.org/ooo/show_bug.cgi?id=127597
   
   
 Utest - Network for Testers
-  * screenshot of reported issue above
+  

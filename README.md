@@ -1,4 +1,4 @@
-# my-issues
+# Issues and test cases
 Collection of issues which I've reported or checked
 
 Mozilla Firefox addons: Mid Vid: 
@@ -14,11 +14,14 @@ It's open source project where I'm QA volunteer
 Other
   * https://greenshot.atlassian.net/browse/BUG-2288?jql=text%20~%20%22polish%22
   * https://github.com/orzechowskikamil/Android-calendar-freetype-widget/issues/17
+
+Utest - Network for Testers
  
+
 
 Collection of test cases created to test Dietik - web application for dietitians
 
   * https://drive.google.com/open?id=1xWFHP9G64greOBh-lJ278DVe-E94uWdi
   
-Utest - Network for Testers
-  * sharing information about projects and issues forbidden
+
+ 
